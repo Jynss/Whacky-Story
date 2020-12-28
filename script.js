@@ -20,7 +20,8 @@ function clothesAdjectve(){
 }
 
 function adjective(){
-    const adjectives = []
+    const adjectives = ['busy', 'messy', 'clean', 'friendly', 'approacable', 'unapproachable', 'attractive', 'beautiful', 'gorgeous', 'plain',
+                       'repulsive', 'lively', 'classy', 'battered', 'vibrant', 'idle']
     return adjectives[Math.floor(Math.random() * adjectives.length)] 
 }
 function adverbs(){

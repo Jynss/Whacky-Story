@@ -53,8 +53,8 @@ const name1 = pickName()
 const name2 = pickName(name1)
 
 console.log(`${name1} and ${name2} went shopping for ${plnouns()} at the mall. Everywhere they looked the saw ${adjective()} signs 
-and ${adjective()} people. ${name1} Saw a man selling ${plnouns()} from a cart and decided to buy one because ${name2} was hungry.
+and ${adjective()} people. ${name1} Saw a man selling ${plnouns()} from a cart and decided to buy one because ${name2} was interested.
 ${name2} wanted to see the other ${plnouns()} stores. One store had a seletion of ${adjective()} ${plnouns()}. A shop owner brought 
 out a ${noun()} that ${name2} liked but ${name1} said it looked too ${clothesAdjectve()}. At the next shop ${name1} found the perfect
- ${clothingItems()} but noticed it was missing a ${noun()}. Meanwhile ${name2} found a ${clothesAdjectve()} ${clothingItems()} that fit
-  ${adverbs()}! After a long day ofshopping theyboth rested their${parts()} near a ${adjective()} ${noun()} by the busy side walk.`)
+${clothingItems()} but noticed it was missing a ${noun()}. Meanwhile ${name2} found a ${clothesAdjectve()} ${clothingItems()} that fit
+${adverbs()}! After a long day of shopping they both rested their ${parts()} near a ${adjective()} side walk.`)
